@@ -22,7 +22,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "axios": "^0.23.0",
+    "axios": "^1.6.3",
     "webfontloader": "^1.6.28"
   },
   "optionalDependencies": {
